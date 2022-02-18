@@ -74,3 +74,7 @@ end
 gem "omniauth-twitter", "~> 1.4"
 
 gem "omniauth-rails_csrf_protection", "~> 1.0"
+
+gem "tweetkit", "~> 0.2.0"
+
+gem "sidekiq", "~> 6.4"
